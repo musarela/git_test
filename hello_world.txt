@@ -1,1 +1,3 @@
-Adding some text to hello_world.txt
+Adding some text to hello_world.txt'
+
+Added more text!
